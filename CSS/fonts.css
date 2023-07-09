@@ -1,0 +1,40 @@
+@font-face {
+	font-family: 'Nunito Sans';
+	src: local('Nunito Sans'),
+		url('../fonts/NunitoSans_7pt-Regular.woff2') format('woff2'),
+		url('../fonts/NunitoSans_7pt-Regular.woff') format('woff'),
+		url('../fonts/NunitoSans_7pt-Regular.ttf') format('ttf');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;	
+}
+@font-face {
+	font-family: 'Nunito Sans';
+	src: local('Nunito Sans'),
+		url('../fonts/NunitoSans_7pt-Italic.woff2') format('woff2'),
+		url('../fonts/NunitoSans_7pt-Italic.woff') format('woff'),
+		url('../fonts/NunitoSans_7pt-Italic.ttf') format('ttf');
+	font-weight: normal;
+	font-style: italic;
+	font-display: swap;	
+}
+@font-face {
+	font-family: 'Yeseva One';
+	src: local('Yeseva One'),
+		url('../fonts/YesevaOne-Regular.woff2') format('woff2'),
+		url('../fonts/YesevaOne-Regular.woff') format('woff'),
+		url('../fonts/YesevaOne-Regular.ttf') format('ttf');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;	
+}
+@font-face {
+	font-family: 'Nunito Sans';
+	src: local('Nunito Sans'),
+		url('../fonts/NunitoSans_7pt-Light.woff2') format('woff2'),
+		url('../fonts/NunitoSans_7pt-Light.woff') format('woff'),
+		url('../fonts/NunitoSans_7pt-Light.ttf') format('ttf');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
