@@ -85,7 +85,7 @@ body {
 	text-decoration: none;
 	color: #E3B873;
 }
-.menu__namber span {
+.menu__namber {
 	width: 126px;
 	font-family: Nunito Sans;
 	font-size: 11px;
