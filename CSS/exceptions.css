@@ -1,13 +1,25 @@
 @media screen and (max-width: 1300px) {
+	
+	.our_clients__box {
+		display: none;
+	}
+	.back_call {
+		display: none;
+	}
 	.menu__nav{
+		display: none;
+	}
+	.gallery {
 		display: none;
 	}
 	.container {
 		width: 375px;
 		margin: 0 auto;
-		padding: 0;
 	}
 	.menu__button {
+		display: none;
+	}
+	.footer {
 		display: none;
 	}
 	.menu__namber span {
@@ -17,12 +29,184 @@
 		font-weight: 400;
 		color: rgba(255, 255, 255, 1);
 	}
-		.hero__heading {
+	.hero__heading {
 		font-family: Yeseva One;
 		font-size: 23px;
 		font-weight: 400;
 		line-height: 31px;
 		letter-spacing: 0em;
 		text-align: left;
-		}
+	}
+	.menu {
+		width: 375px;
+		margin: 0 auto;
+	}
+	.menu__content {
+		padding: 23px 18px 24px 18px;
+	}
+	.hero_content_text {
+		font-family: Nunito Sans;
+		font-size: 14px;
+		font-weight: 400;
+		line-height: 19px;
+		letter-spacing: 0em;
+		text-align: left;
+		width: 339px;
+	}
+	.main__hero {
+		width: 375px;
+		margin: 0 auto;
+		height: 476px;
+		padding: 81px 18px 65px 18px;
+	}
+	.buttons {
+		gap: 26px;
+	}
+	.button {
+		width: 100%;
+		max-width: 338.81px;
+	}
+	.transparent__button {
+		width: 100%;
+		max-width: 338.81px;
+	}
+	.main__hero_content {
+		max-width: 375px;
+	}
+	.projects {
+		max-width: 375px;
+		margin: 0 auto;
+	}
+	.completed_projects {
+		padding: 36px 18px 58px 18px;
+		flex-direction: column;
+		align-content: center;
+		flex-wrap: nowrap;
+	}
+	.description__blocks {
+		width: 341px;
+	}
+	.slider {
+		display: none;
+	}
+	.projects_description {
+		width: 340px;
+	}
+	.projects_description h1 {
+		text-align: center;
+	}
+	.projects_description span {
+		font-family: Nunito Sans;
+		font-size: 11px;
+		font-weight: 400;
+		text-align: center;
+	}
+	.projects__example {
+		display: none;
+	}
+	.online__control {
+		margin-top: 0;
+		width: 375px;
+		background: rgba(19, 19, 19, 1);
+		padding: 0 18px 20px 18px;
+	}
+	.control__video {
+		width: 340px;
+		height: 207px;
+	 margin-top: 0;
+	}
+	.control__video-hero {
+		max-width: 340px;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%,-50%);
+	}
+	.play__img {
+		width: 63.12px;
+	}
+	.long_line {
+		margin-top: 28px;
+	}
+	.online__control span {
+		font-family: Nunito Sans;
+		font-size: 11px;
+		font-weight: 400;
+		line-height: 19px;
+		letter-spacing: 0em;
+		text-align: center;
+		color: rgba(255, 255, 255, 1);
+		margin-top: 21px;
+	}
+	.personal_info {
+		max-width: 375px;
+		margin: 0 auto;
+		background: rgba(19, 19, 19, 1);
+	}
+	.personal_info__form {
+		max-width: 340px;
+		padding: 0;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		
+
+	}
+	.form {
+		width: 100%;
+	}
+	.form__label {
+		font-family: Nunito Sans;
+		font-size: 13px;
+		font-weight: 400;
+		line-height: 21px;
+		letter-spacing: 0em;
+		text-align: left;
+		color: rgba(255, 255, 255, 0.5);
+	}
+	.form__input {
+		font-family: Nunito Sans;
+		font-size: 14px;
+		font-weight: 400;
+		line-height: 19px;
+		letter-spacing: 0em;
+		text-align: left;
+		color: rgba(255, 255, 255, 1);
+	}
+	.types_of_repair {
+		width: 375px;
+		margin: 0 auto;
+		padding: 0 18px;
+	}
+	.repair__examples {
+		max-width: 340px;
+	}
+	.example__block img {
+		max-width: 340px;
+	}
+	.block__container {
+		margin-left: 0;
+	}
+	.questions {
+		top: 0;
+		max-width: 340px;
+		padding: 0 18px;
+	}
+	.questions__box h1 {
+		margin-top: 52px;
+	}
+	.questions__form {
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+	}
+	.contacts {
+		max-width: 375px;
+	}
+	.map {
+		max-width: 340px;
+	}
+	.map img {
+		max-width: 340px;
+		height: 255px;
+	}
 }
