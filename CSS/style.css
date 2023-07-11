@@ -171,6 +171,7 @@ body {
 }
 .projects_description {
 	padding-top: 69.36px;
+	width: 442px;
 }
 .projects_description h1 {
 	margin: 0;
@@ -217,6 +218,31 @@ body {
 }
 .slider {
 	margin-top: 63px;
+	display: flex;
+	align-items: center;
+	gap: 29.5px;
+}
+.slider__bt {
+	background-color: rgba(255, 255, 255, 0);
+	border: 0;
+	padding: 0;
+	height: 14px;
+	cursor: pointer;
+}
+.slider__dots {
+	display: flex;
+	flex-direction: row;
+	gap: 17px;
+}
+.slider__dot {
+	width: 10px;
+	height: 10px;
+	background: rgba(255, 255, 255, 0.3);
+	border-radius: 50%;
+	cursor: pointer;
+}
+.slider__dot:hover {
+	background: rgba(255, 255, 255, 1);
 }
 .example__list {
 	height: 24px;
